@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello My name is blusewill aka. justawildwolf<br>I am a student that self learned Computer since I was very young<br><br>I am currently using :<br>🪟 Windows 10 22H2<br>🐧 Linux (Fedora 38)<br>WM: Hyprland<br>Theme: Nordic-darker<br>Icons: Adwaita [GTK2/3]<br>Terminal: kitty<br><br>Working Project :<br>blusewill/ytvideo-decipher [Auto Subtitle Generator]<br>blusewill/website [blusewill.ml Website Source Code]
+Hello My name is blusewill aka. justawildwolf<br>I am a student that self learned Computer since I was very young<br><br>I am currently using :<br>🪟 Windows 10 21H2<br>🐧 Linux (Fedora 38)<br>WM: Hyprland<br>Theme: Nordic-darker<br>Icons: Adwaita [GTK2/3]<br>Terminal: kitty<br><br>Working Project :<br>blusewill/ytvideo-decipher [Auto Subtitle Generator]<br>blusewill/website [blusewill.ml Website Source Code]
 
 
 ## 🌐 Socials:
