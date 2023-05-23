@@ -52,5 +52,5 @@
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
   - Twitter   : <https://twitter.com/bluesewill>
-  - Mastodon  : <https://mastodon.social/blusewill>
+  - Mastodon  : <https://mastodon.social/@bluesewill>
   - Website   : <https://blusewill.ml>
