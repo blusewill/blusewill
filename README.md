@@ -2,6 +2,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blusewill&show_icons=true&theme=tokyonight" />
 </a></p>
 
+<p align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=blusewill&theme=tokyonight&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&hide_total_contributions=true" />
+</a></p>
+
 <p align="center"><a href="https://wakatime.com/@blusewill">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@blusewill/b122a078-b2f5-4932-835e-be27afd2152c.svg" />
 </a>
