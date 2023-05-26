@@ -43,11 +43,11 @@
 - [Update README.md and Python Scrpit](https://github.com/blusewill/ytvideo-decipher/pull/1) on [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher)
 ### ⭐ Recent Stars
 
+- [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [INV-matt/dotfiles](https://github.com/INV-matt/dotfiles) - My dotfiles
 - [chadcat7/fuyu](https://github.com/chadcat7/fuyu) - nix dotfiles for chilly people
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
-- [Raychanan/ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation) - Use Python and ChatGPT for translation. 利用Python和ChatGPT完成翻译。
 ### 📰 Recent Blog Posts
 
 - [2023 Resolutions](https://blusewill.ml/2023resolutions/)
