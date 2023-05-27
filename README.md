@@ -22,18 +22,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/whisper-stream](https://github.com/blusewill/whisper-stream) - 
 - [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher) - The UPGRADED Version of ytvideo-whisper which it will auto generated the srt file at correct time
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website) - 二崙樂齡學習中心網站
-- [blusewill/image2textpy](https://github.com/blusewill/image2textpy) - image2textpy
 ### 🌱 My latest projects
 
+- [blusewill/whisper-stream](https://github.com/blusewill/whisper-stream) - 
 - [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher) - The UPGRADED Version of ytvideo-whisper which it will auto generated the srt file at correct time
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website) - 二崙樂齡學習中心網站
 - [blusewill/image2textpy](https://github.com/blusewill/image2textpy) - image2textpy
-- [blusewill/WindowsSetupScrpit](https://github.com/blusewill/WindowsSetupScrpit) - Win11 Tweaks
 ### 🔨 My recent Pull Requests
 
 - [Update the Translation Feature and add one more package in requirement.txt](https://github.com/blusewill/ytvideo-decipher/pull/5) on [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher)
