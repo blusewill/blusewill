@@ -23,24 +23,24 @@
 ### 👷 Check out what I'm currently working on
 
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
+- [blusewill/GPT-Translator](https://github.com/blusewill/GPT-Translator) - ChatGPT Translator for translating the transcript or other stuff
 - [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher) - The UPGRADED Version of ytvideo-whisper which it will auto generated the srt file at correct time
 - [blusewill/whisper-stream](https://github.com/blusewill/whisper-stream) - 
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
-- [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website) - 二崙樂齡學習中心網站
 ### 🌱 My latest projects
 
+- [blusewill/GPT-Translator](https://github.com/blusewill/GPT-Translator) - ChatGPT Translator for translating the transcript or other stuff
 - [blusewill/whisper-stream](https://github.com/blusewill/whisper-stream) - 
 - [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher) - The UPGRADED Version of ytvideo-whisper which it will auto generated the srt file at correct time
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website) - 二崙樂齡學習中心網站
-- [blusewill/image2textpy](https://github.com/blusewill/image2textpy) - image2textpy
 ### 🔨 My recent Pull Requests
 
+- [Implement the anonfile upload feature and fix ffmpeg Python Package](https://github.com/blusewill/ytvideo-whisper/pull/3) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Update README.md](https://github.com/blusewill/ytvideo-whisper/pull/2) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Dev](https://github.com/blusewill/ytvideo-decipher/pull/6) on [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher)
 - [Massive Update on 2023/06/02 02:37AM](https://github.com/blusewill/ytvideo-whisper/pull/1) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Update the Translation Feature and add one more package in requirement.txt](https://github.com/blusewill/ytvideo-decipher/pull/5) on [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher)
-- [Merge with the main branch](https://github.com/blusewill/ytvideo-decipher/pull/4) on [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher)
 ### ⭐ Recent Stars
 
 - [suroh1994/twitch-marker-to-edl](https://github.com/suroh1994/twitch-marker-to-edl) - Converter from Twitch Stream Marker export to Davinci Resolve Marker
