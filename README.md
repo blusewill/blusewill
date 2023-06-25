@@ -22,18 +22,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/GPT-Translator](https://github.com/blusewill/GPT-Translator) - ChatGPT Translator for translating the transcript or other stuff
 - [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher) - The UPGRADED Version of ytvideo-whisper which it will auto generated the srt file at correct time
 - [blusewill/whisper-stream](https://github.com/blusewill/whisper-stream) - 
-- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 ### 🌱 My latest projects
 
+- [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/GPT-Translator](https://github.com/blusewill/GPT-Translator) - ChatGPT Translator for translating the transcript or other stuff
 - [blusewill/whisper-stream](https://github.com/blusewill/whisper-stream) - 
 - [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher) - The UPGRADED Version of ytvideo-whisper which it will auto generated the srt file at correct time
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
-- [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website) - 二崙樂齡學習中心網站
 ### 🔨 My recent Pull Requests
 
 - [Implement the anonfile upload feature and fix ffmpeg Python Package](https://github.com/blusewill/ytvideo-whisper/pull/3) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
