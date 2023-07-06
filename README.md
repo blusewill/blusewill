@@ -29,11 +29,11 @@
 - [blusewill/GPT-Translator](https://github.com/blusewill/GPT-Translator) - ChatGPT Translator for translating the transcript or other stuff
 ### 🌱 My latest projects
 
+- [blusewill/plurk-rss-example](https://github.com/blusewill/plurk-rss-example) - The Example to use Github Workflow as your rss feed
 - [blusewill/Python-Formatter](https://github.com/blusewill/Python-Formatter) - The Formatter that is using Python
 - [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/GPT-Translator](https://github.com/blusewill/GPT-Translator) - ChatGPT Translator for translating the transcript or other stuff
-- [blusewill/whisper-stream](https://github.com/blusewill/whisper-stream) - 
 ### 🔨 My recent Pull Requests
 
 - [Implement the anonfile upload feature and fix ffmpeg Python Package](https://github.com/blusewill/ytvideo-whisper/pull/3) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
