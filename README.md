@@ -36,18 +36,18 @@
 - [blusewill/GPT-Translator](https://github.com/blusewill/GPT-Translator) - ChatGPT Translator for translating the transcript or other stuff
 ### 🔨 My recent Pull Requests
 
+- [&#34;dwm-fakefullscreen-20210714-138b405&#34; Repatch](https://github.com/ChrisTitusTech/dwm-titus/pull/2) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [Implement the anonfile upload feature and fix ffmpeg Python Package](https://github.com/blusewill/ytvideo-whisper/pull/3) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Update README.md](https://github.com/blusewill/ytvideo-whisper/pull/2) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Dev](https://github.com/blusewill/ytvideo-decipher/pull/6) on [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher)
 - [Massive Update on 2023/06/02 02:37AM](https://github.com/blusewill/ytvideo-whisper/pull/1) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
-- [Update the Translation Feature and add one more package in requirement.txt](https://github.com/blusewill/ytvideo-decipher/pull/5) on [blusewill/ytvideo-decipher](https://github.com/blusewill/ytvideo-decipher)
 ### ⭐ Recent Stars
 
+- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - 
 - [suroh1994/twitch-marker-to-edl](https://github.com/suroh1994/twitch-marker-to-edl) - Converter from Twitch Stream Marker export to Davinci Resolve Marker
 - [Endermanch/XPConfirmationIDKeygen](https://github.com/Endermanch/XPConfirmationIDKeygen) - Windows XP Confirmation ID Keygen
 - [kiwec/osu-ranked-lobbies](https://github.com/kiwec/osu-ranked-lobbies) - A bot that creates osu! lobbies, with an alternative leaderboard not based on performance points.
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
-- [INV-matt/dotfiles](https://github.com/INV-matt/dotfiles) - My dotfiles
 ### 📰 Recent Blog Posts
 
 - [2023 Resolutions](https://blusewill.ml/2023resolutions/)
