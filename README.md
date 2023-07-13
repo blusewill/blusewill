@@ -22,11 +22,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
 - [blusewill/plurk-rss-example](https://github.com/blusewill/plurk-rss-example) - The Example to use Github Workflow as your rss feed
 - [blusewill/Python-Formatter](https://github.com/blusewill/Python-Formatter) - The Formatter that is using Python
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
-- [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 ### 🌱 My latest projects
 
 - [blusewill/plurk-rss-example](https://github.com/blusewill/plurk-rss-example) - The Example to use Github Workflow as your rss feed
@@ -43,7 +43,7 @@
 - [Massive Update on 2023/06/02 02:37AM](https://github.com/blusewill/ytvideo-whisper/pull/1) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 ### ⭐ Recent Stars
 
-- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - 
+- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
 - [suroh1994/twitch-marker-to-edl](https://github.com/suroh1994/twitch-marker-to-edl) - Converter from Twitch Stream Marker export to Davinci Resolve Marker
 - [Endermanch/XPConfirmationIDKeygen](https://github.com/Endermanch/XPConfirmationIDKeygen) - Windows XP Confirmation ID Keygen
 - [kiwec/osu-ranked-lobbies](https://github.com/kiwec/osu-ranked-lobbies) - A bot that creates osu! lobbies, with an alternative leaderboard not based on performance points.
