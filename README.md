@@ -43,11 +43,11 @@
 - [Massive Update on 2023/06/02 02:37AM](https://github.com/blusewill/ytvideo-whisper/pull/1) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 ### ⭐ Recent Stars
 
+- [Biswa96/WinLight](https://github.com/Biswa96/WinLight) - Download Windows 10 Spotlight Lock screen images anywhere using Content Delivery Management
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter&#39;s v1, v2, and GraphQL APIs
 - [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
 - [suroh1994/twitch-marker-to-edl](https://github.com/suroh1994/twitch-marker-to-edl) - Converter from Twitch Stream Marker export to Davinci Resolve Marker
 - [Endermanch/XPConfirmationIDKeygen](https://github.com/Endermanch/XPConfirmationIDKeygen) - Windows XP Confirmation ID Keygen
-- [kiwec/osu-ranked-lobbies](https://github.com/kiwec/osu-ranked-lobbies) - A bot that creates osu! lobbies, with an alternative leaderboard not based on performance points.
-- [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 ### 📰 Recent Blog Posts
 
 - [2023 Resolutions](https://blusewill.ml/2023resolutions/)
