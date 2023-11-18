@@ -61,3 +61,8 @@
   - Twitter   : <https://twitter.com/bluesewill>
   - Mastodon  : <https://mastodon.social/@bluesewill>
   - Website   : <https://blusewill.us.to/>
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://raw.githubusercontent.com/blusewill/blusewill/output/github-contribution-grid-snake-dark.svg" />
+</a></p>
+
