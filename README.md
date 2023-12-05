@@ -50,11 +50,11 @@
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 ### 📰 Recent Blog Posts
 
+- [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
 - [Moving My Art to Locals](https://blusewill.us.to/moving-my-art-to-locals/)
 - [Living in Taiwan Is Not Fun](https://blusewill.us.to/living-in-taiwan-is-not-fun/)
 - [Website Update](https://blusewill.us.to/website-update/)
 - [GoodbyeX](https://blusewill.us.to/goodbyex/)
-- [Auto Subtitle Generator](https://blusewill.us.to/ytvideo-whisper/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
