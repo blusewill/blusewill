@@ -43,11 +43,11 @@
 - [2023/10/10 01:02AM Update](https://github.com/blusewill/ytvideo-whisper/pull/5) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 ### ⭐ Recent Stars
 
+- [Nilsen84/lcqt2](https://github.com/Nilsen84/lcqt2) - 
 - [we684123/Telegram_link_Line](https://github.com/we684123/Telegram_link_Line) - 用Telegram來收發Line的訊息，use telegram to Send and receive messages(from Line)。  或者把它當作Line的訊息備份也是可啦 😛
 - [akira02/Chiaki-Taiwan-Railway-font](https://github.com/akira02/Chiaki-Taiwan-Railway-font) - Taiwan Railway Mark Font
 - [dxxxxy/EssentialCosmeticsUnlocker](https://github.com/dxxxxy/EssentialCosmeticsUnlocker) - Client-side only patch that allows you to unlock ALL cosmetics (&#43; emotes) in the Essential mod. Works on every version of Essential MC (1.8.9 - 1.20).
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [Khalil-Youssefi/qrcodeT](https://github.com/Khalil-Youssefi/qrcodeT) - text-based qrcodes directly in console (terminal)
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
