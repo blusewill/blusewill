@@ -43,11 +43,11 @@
 - [2023/10/10 01:02AM Update](https://github.com/blusewill/ytvideo-whisper/pull/5) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 ### ⭐ Recent Stars
 
+- [Blair2004/NexoPOS](https://github.com/Blair2004/NexoPOS) - The base version of NexoPOS, which is a web-Based Point Of Sale (POS) System build with Laravel, TailwindCSS, and Vue.Js.
 - [DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) - The main repository for the Darkflame Universe Server Emulator project.
 - [open-flash/open-flash](https://github.com/open-flash/open-flash) - OpenFlash main repository (website and meta)
 - [Nilsen84/lcqt2](https://github.com/Nilsen84/lcqt2) - 
 - [we684123/Telegram_link_Line](https://github.com/we684123/Telegram_link_Line) - 用Telegram來收發Line的訊息，use telegram to Send and receive messages(from Line)。  或者把它當作Line的訊息備份也是可啦 😛
-- [akira02/Chiaki-Taiwan-Railway-font](https://github.com/akira02/Chiaki-Taiwan-Railway-font) - Taiwan Railway Mark Font
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
