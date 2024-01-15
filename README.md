@@ -43,11 +43,11 @@
 - [2023/10/10 01:02AM Update](https://github.com/blusewill/ytvideo-whisper/pull/5) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 ### ⭐ Recent Stars
 
+- [Sanae6/SmoOnlineServer](https://github.com/Sanae6/SmoOnlineServer) - Official server for Super Mario Odyssey: Online
+- [TheUbMunster/SmoOnlineServer](https://github.com/TheUbMunster/SmoOnlineServer) - Voice Proximity Server for Super Mario Odyssey: Online
 - [Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [Blair2004/NexoPOS](https://github.com/Blair2004/NexoPOS) - The base version of NexoPOS, which is a web-Based Point Of Sale (POS) System build with Laravel, TailwindCSS, and Vue.Js.
-- [DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) - The main repository for the Darkflame Universe Server Emulator project.
-- [open-flash/open-flash](https://github.com/open-flash/open-flash) - OpenFlash main repository (website and meta)
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
