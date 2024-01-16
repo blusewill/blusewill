@@ -25,8 +25,8 @@
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
-- [blusewill/SchoolLinux-dotconfig](https://github.com/blusewill/SchoolLinux-dotconfig) - The dotconfig file for SchoolLinux
 - [blusewill/KMN-ChatGPT-Setup](https://github.com/blusewill/KMN-ChatGPT-Setup) - Javascript backup that can call KMN_BOT in ChatGPT
+- [blusewill/SchoolLinux-dotconfig](https://github.com/blusewill/SchoolLinux-dotconfig) - The dotconfig file for SchoolLinux
 ### 🌱 My latest projects
 
 - [blusewill/SchoolLinux-dotconfig](https://github.com/blusewill/SchoolLinux-dotconfig) - The dotconfig file for SchoolLinux
