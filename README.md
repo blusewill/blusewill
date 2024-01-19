@@ -36,18 +36,18 @@
 - [blusewill/Python-Formatter](https://github.com/blusewill/Python-Formatter) - The Formatter that is using Python
 ### 🔨 My recent Pull Requests
 
+- [Change to open as Default Web Browser](https://github.com/ChrisTitusTech/dwm-titus/pull/9) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
+- [Change to Titus&#39;s Current Setup](https://github.com/ChrisTitusTech/Debian-titus/pull/100) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 - [Fixes Chinese Version Auto is not working properly](https://github.com/blusewill/ytvideo-whisper/pull/7) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Upgrade Theme Version](https://github.com/blusewill/erlun-senior-edu-website/pull/3) on [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website)
 - [Update Album Structure](https://github.com/blusewill/erlun-senior-edu-website/pull/2) on [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website)
-- [Update README.md](https://github.com/blusewill/ytvideo-whisper/pull/6) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
-- [2023/10/10 01:02AM Update](https://github.com/blusewill/ytvideo-whisper/pull/5) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 ### ⭐ Recent Stars
 
+- [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
+- [ibrahimbutt/direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [Sanae6/SmoOnlineServer](https://github.com/Sanae6/SmoOnlineServer) - Official server for Super Mario Odyssey: Online
 - [TheUbMunster/SmoOnlineServer](https://github.com/TheUbMunster/SmoOnlineServer) - Voice Proximity Server for Super Mario Odyssey: Online
 - [Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
-- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [Blair2004/NexoPOS](https://github.com/Blair2004/NexoPOS) - The base version of NexoPOS, which is a web-Based Point Of Sale (POS) System build with Laravel, TailwindCSS, and Vue.Js.
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
