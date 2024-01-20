@@ -43,11 +43,11 @@
 - [Update Album Structure](https://github.com/blusewill/erlun-senior-edu-website/pull/2) on [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website)
 ### ⭐ Recent Stars
 
+- [Jarli01/xenorchestra_installer](https://github.com/Jarli01/xenorchestra_installer) - A simple install script for Xen Orchestra
 - [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
 - [ibrahimbutt/direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [Sanae6/SmoOnlineServer](https://github.com/Sanae6/SmoOnlineServer) - Official server for Super Mario Odyssey: Online
 - [TheUbMunster/SmoOnlineServer](https://github.com/TheUbMunster/SmoOnlineServer) - Voice Proximity Server for Super Mario Odyssey: Online
-- [Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
