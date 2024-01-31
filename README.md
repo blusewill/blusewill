@@ -22,11 +22,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
+- [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
-- [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
-- [blusewill/KMN-ChatGPT-Setup](https://github.com/blusewill/KMN-ChatGPT-Setup) - Javascript backup that can call KMN_BOT in ChatGPT
-- [blusewill/SchoolLinux-dotconfig](https://github.com/blusewill/SchoolLinux-dotconfig) - The dotconfig file for SchoolLinux
 ### 🌱 My latest projects
 
 - [blusewill/SchoolLinux-dotconfig](https://github.com/blusewill/SchoolLinux-dotconfig) - The dotconfig file for SchoolLinux
@@ -43,11 +43,11 @@
 - [Update Album Structure](https://github.com/blusewill/erlun-senior-edu-website/pull/2) on [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website)
 ### ⭐ Recent Stars
 
+- [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [Squareville/lu-toolbox](https://github.com/Squareville/lu-toolbox) - Blender Addon which adds a bunch of useful tools to prepare models for use in LEGO Universe
 - [Jarli01/xenorchestra_installer](https://github.com/Jarli01/xenorchestra_installer) - A simple install script for Xen Orchestra
 - [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
 - [ibrahimbutt/direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
-- [Sanae6/SmoOnlineServer](https://github.com/Sanae6/SmoOnlineServer) - Official server for Super Mario Odyssey: Online
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
