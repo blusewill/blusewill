@@ -36,18 +36,18 @@
 - [blusewill/Python-Formatter](https://github.com/blusewill/Python-Formatter) - The Formatter that is using Python
 ### 🔨 My recent Pull Requests
 
+- [Being able to make users select between web browsers](https://github.com/ChrisTitusTech/Debian-titus/pull/103) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 - [Change to open as Default Web Browser](https://github.com/ChrisTitusTech/dwm-titus/pull/9) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [Change to Titus&#39;s Current Setup](https://github.com/ChrisTitusTech/Debian-titus/pull/100) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 - [Fixes Chinese Version Auto is not working properly](https://github.com/blusewill/ytvideo-whisper/pull/7) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Upgrade Theme Version](https://github.com/blusewill/erlun-senior-edu-website/pull/3) on [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website)
-- [Update Album Structure](https://github.com/blusewill/erlun-senior-edu-website/pull/2) on [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website)
 ### ⭐ Recent Stars
 
+- [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps) - archive
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [Squareville/lu-toolbox](https://github.com/Squareville/lu-toolbox) - Blender Addon which adds a bunch of useful tools to prepare models for use in LEGO Universe
 - [Jarli01/xenorchestra_installer](https://github.com/Jarli01/xenorchestra_installer) - A simple install script for Xen Orchestra
 - [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
-- [ibrahimbutt/direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
