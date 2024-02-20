@@ -36,11 +36,11 @@
 - [blusewill/Python-Formatter](https://github.com/blusewill/Python-Formatter) - The Formatter that is using Python
 ### 🔨 My recent Pull Requests
 
+- [Add LINE into Applications Communications.](https://github.com/ChrisTitusTech/winutil/pull/1633) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Being able to make users select between web browsers](https://github.com/ChrisTitusTech/Debian-titus/pull/103) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 - [Change to open as Default Web Browser](https://github.com/ChrisTitusTech/dwm-titus/pull/9) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [Change to Titus&#39;s Current Setup](https://github.com/ChrisTitusTech/Debian-titus/pull/100) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 - [Fixes Chinese Version Auto is not working properly](https://github.com/blusewill/ytvideo-whisper/pull/7) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
-- [Upgrade Theme Version](https://github.com/blusewill/erlun-senior-edu-website/pull/3) on [blusewill/erlun-senior-edu-website](https://github.com/blusewill/erlun-senior-edu-website)
 ### ⭐ Recent Stars
 
 - [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps) - archive
