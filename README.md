@@ -22,11 +22,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
 - [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
-- [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 ### 🌱 My latest projects
 
 - [blusewill/SchoolLinux-dotconfig](https://github.com/blusewill/SchoolLinux-dotconfig) - The dotconfig file for SchoolLinux
