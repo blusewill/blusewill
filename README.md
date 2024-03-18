@@ -43,11 +43,11 @@
 - [Change to Titus&#39;s Current Setup](https://github.com/ChrisTitusTech/Debian-titus/pull/100) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [suyu-emu/suyu](https://github.com/suyu-emu/suyu) -   suyu is the continuation of the world&#39;s most popular, open-source, Nintendo Switch emulator, yuzu.  It is written in C&#43;&#43; with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 - [LexouilleTM/yuzu-mods-archive](https://github.com/LexouilleTM/yuzu-mods-archive) - All mods on the official yuzu page but archived
 - [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps) - archive
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [Squareville/lu-toolbox](https://github.com/Squareville/lu-toolbox) - Blender Addon which adds a bunch of useful tools to prepare models for use in LEGO Universe
-- [Jarli01/xenorchestra_installer](https://github.com/Jarli01/xenorchestra_installer) - A simple install script for Xen Orchestra
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
