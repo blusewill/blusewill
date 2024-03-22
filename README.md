@@ -23,8 +23,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
-- [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 - [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
 - [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
 ### 🌱 My latest projects
@@ -44,10 +44,10 @@
 ### ⭐ Recent Stars
 
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-- [suyu-emu/suyu](https://github.com/suyu-emu/suyu) -   suyu is the continuation of the world&#39;s most popular, open-source, Nintendo Switch emulator, yuzu.  It is written in C&#43;&#43; with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 - [LexouilleTM/yuzu-mods-archive](https://github.com/LexouilleTM/yuzu-mods-archive) - All mods on the official yuzu page but archived
 - [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps) - archive
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
+- [Squareville/lu-toolbox](https://github.com/Squareville/lu-toolbox) - Blender Addon which adds a bunch of useful tools to prepare models for use in LEGO Universe
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
