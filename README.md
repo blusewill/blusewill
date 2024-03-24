@@ -43,11 +43,11 @@
 - [Change to Titus&#39;s Current Setup](https://github.com/ChrisTitusTech/Debian-titus/pull/100) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [MaxMaeder/DriveBackupV2](https://github.com/MaxMaeder/DriveBackupV2) - Uploads Minecraft backups to Google Drive/OneDrive or by (S)FTP
+- [xMoTy/InteractiveWolf](https://github.com/xMoTy/InteractiveWolf) - Start interact with your lovely wolfy!
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [LexouilleTM/yuzu-mods-archive](https://github.com/LexouilleTM/yuzu-mods-archive) - All mods on the official yuzu page but archived
 - [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps) - archive
-- [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
-- [Squareville/lu-toolbox](https://github.com/Squareville/lu-toolbox) - Blender Addon which adds a bunch of useful tools to prepare models for use in LEGO Universe
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
