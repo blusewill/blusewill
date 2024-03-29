@@ -22,8 +22,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 - [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
 - [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
