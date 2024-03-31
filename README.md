@@ -36,11 +36,11 @@
 - [blusewill/Python-Formatter](https://github.com/blusewill/Python-Formatter) - The Formatter that is using Python
 ### 🔨 My recent Pull Requests
 
+- [Add LINE in Communications Tab](https://github.com/ChrisTitusTech/winutil/pull/1765) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Fixes Update.](https://github.com/ChrisTitusTech/winutil/pull/1730) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Change the Theme Configuration for low spec.](https://github.com/ChrisTitusTech/winutil/pull/1643) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Add LINE into Applications Communications.](https://github.com/ChrisTitusTech/winutil/pull/1633) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Being able to make users select between web browsers](https://github.com/ChrisTitusTech/Debian-titus/pull/103) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
-- [Change to open as Default Web Browser](https://github.com/ChrisTitusTech/dwm-titus/pull/9) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 ### ⭐ Recent Stars
 
 - [MaxMaeder/DriveBackupV2](https://github.com/MaxMaeder/DriveBackupV2) - Uploads Minecraft backups to Google Drive/OneDrive or by (S)FTP
