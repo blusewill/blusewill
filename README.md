@@ -22,18 +22,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using DeepLX API
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
-- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
 - [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
 ### 🌱 My latest projects
 
+- [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using DeepLX API
 - [blusewill/SchoolLinux-dotconfig](https://github.com/blusewill/SchoolLinux-dotconfig) - The dotconfig file for SchoolLinux
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 - [blusewill/KMN-ChatGPT-Setup](https://github.com/blusewill/KMN-ChatGPT-Setup) - Javascript backup that can call KMN_BOT in ChatGPT
 - [blusewill/plurk-rss-example](https://github.com/blusewill/plurk-rss-example) - The Example to use Github Workflow as your rss feed
-- [blusewill/Python-Formatter](https://github.com/blusewill/Python-Formatter) - The Formatter that is using Python
 ### 🔨 My recent Pull Requests
 
 - [Add LINE in Communications Tab](https://github.com/ChrisTitusTech/winutil/pull/1765) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
@@ -43,11 +43,11 @@
 - [Being able to make users select between web browsers](https://github.com/ChrisTitusTech/Debian-titus/pull/103) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [OwO-Network/PyDeepLX](https://github.com/OwO-Network/PyDeepLX) - A Python package for unlimited DeepL translation
+- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 - [Chocobo1/windows-chewing-tsf-build](https://github.com/Chocobo1/windows-chewing-tsf-build) - Windows新酷音 非官方編譯
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [MaxMaeder/DriveBackupV2](https://github.com/MaxMaeder/DriveBackupV2) - Uploads Minecraft backups to Google Drive/OneDrive or by (S)FTP
-- [xMoTy/InteractiveWolf](https://github.com/xMoTy/InteractiveWolf) - Start interact with your lovely wolfy!
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
