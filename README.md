@@ -22,8 +22,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using DeepLX API
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
+- [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using DeepLX API
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 - [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
