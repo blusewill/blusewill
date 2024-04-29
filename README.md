@@ -36,11 +36,11 @@
 - [blusewill/plurk-rss-example](https://github.com/blusewill/plurk-rss-example) - The Example to use Github Workflow as your rss feed
 ### 🔨 My recent Pull Requests
 
+- [修復找不到 flashplayer_sa.exe](https://github.com/SaviorDT/MoleFishCapture/pull/1) on [SaviorDT/MoleFishCapture](https://github.com/SaviorDT/MoleFishCapture)
 - [Fixes #1878](https://github.com/ChrisTitusTech/winutil/pull/1883) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Merge Update](https://github.com/blusewill/dwm-blusewill/pull/1) on [blusewill/dwm-blusewill](https://github.com/blusewill/dwm-blusewill)
 - [Add LINE in Communications Tab](https://github.com/ChrisTitusTech/winutil/pull/1765) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Fixes Update.](https://github.com/ChrisTitusTech/winutil/pull/1730) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Change the Theme Configuration for low spec.](https://github.com/ChrisTitusTech/winutil/pull/1643) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
 - [OwO-Network/PyDeepLX](https://github.com/OwO-Network/PyDeepLX) - A Python package for unlimited DeepL translation
