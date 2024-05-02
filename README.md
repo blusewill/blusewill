@@ -43,11 +43,11 @@
 - [Fixes Update.](https://github.com/ChrisTitusTech/winutil/pull/1730) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [max32002/tixcraft_bot](https://github.com/max32002/tixcraft_bot) - MaxBot open source code bot
 - [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
 - [OwO-Network/PyDeepLX](https://github.com/OwO-Network/PyDeepLX) - A Python package for unlimited DeepL translation
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 - [Chocobo1/windows-chewing-tsf-build](https://github.com/Chocobo1/windows-chewing-tsf-build) - Windows新酷音 非官方編譯
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 📰 Recent Blog Posts
 
 - [Recent Thoughts](https://blusewill.us.to/recent-thoughts/)
