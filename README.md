@@ -36,25 +36,25 @@
 - [blusewill/plurk-rss-example](https://github.com/blusewill/plurk-rss-example) - The Example to use Github Workflow as your rss feed
 ### 🔨 My recent Pull Requests
 
+- [Setup to open the web browser using the XDG Defaults](https://github.com/ChrisTitusTech/dwm-titus/pull/21) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [修復找不到 flashplayer_sa.exe](https://github.com/SaviorDT/MoleFishCapture/pull/1) on [SaviorDT/MoleFishCapture](https://github.com/SaviorDT/MoleFishCapture)
 - [Fixes #1878](https://github.com/ChrisTitusTech/winutil/pull/1883) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Merge Update](https://github.com/blusewill/dwm-blusewill/pull/1) on [blusewill/dwm-blusewill](https://github.com/blusewill/dwm-blusewill)
 - [Add LINE in Communications Tab](https://github.com/ChrisTitusTech/winutil/pull/1765) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Fixes Update.](https://github.com/ChrisTitusTech/winutil/pull/1730) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [max32002/tixcraft_bot](https://github.com/max32002/tixcraft_bot) - MaxBot open source code bot
 - [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
 - [OwO-Network/PyDeepLX](https://github.com/OwO-Network/PyDeepLX) - A Python package for unlimited DeepL translation
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
-- [Chocobo1/windows-chewing-tsf-build](https://github.com/Chocobo1/windows-chewing-tsf-build) - Windows新酷音 非官方編譯
 ### 📰 Recent Blog Posts
 
+- [Quitting Soundtrack Edit Community. (For real)](https://blusewill.us.to/posts/ninjago/)
 - [Website Update 2024](https://blusewill.us.to/posts/970b365/)
 - [Recent Thoughts](https://blusewill.us.to/posts/recent-thoughts/)
 - [Moving My Art to Locals](https://blusewill.us.to/posts/moving-my-art-to-locals/)
 - [Living in Taiwan Is Not Fun](https://blusewill.us.to/posts/living-in-taiwan-is-not-fun/)
-- [Website Update](https://blusewill.us.to/posts/website-update/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
