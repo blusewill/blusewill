@@ -1,24 +1,4 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blusewill&show_icons=true&theme=tokyonight" />
-</a></p>
-
-<p align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=blusewill&theme=tokyonight&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&hide_total_contributions=true" />
-</a></p>
-
-<p align="center"><a href="https://wakatime.com/@blusewill">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@blusewill/b122a078-b2f5-4932-835e-be27afd2152c.svg" />
-</a>
-<a href="https://wakatime.com/@blusewill">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@blusewill/21eed0f8-5e94-4db7-8fb1-70156652951f.svg" />
-</a></p>
-
-<p align="center"><a href="https://wakatime.com/@blusewill">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@blusewill/5da381f9-beea-4a84-b39e-09c70ad06d0e.svg" />
-</a>
-<a href="https://wakatime.com/@christitustech">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@blusewill/a907241a-ca0d-4fa5-bdf8-32b5a8059330.svg" />
-</a></p>
+[![wakatime](https://wakatime.com/badge/user/2be298e9-735d-4bcb-940f-92569bb0fae1.svg)](https://wakatime.com/@2be298e9-735d-4bcb-940f-92569bb0fae1)
 
 ### 👷 Check out what I'm currently working on
 
