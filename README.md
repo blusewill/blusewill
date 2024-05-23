@@ -16,11 +16,11 @@
 - [blusewill/plurk-rss-example](https://github.com/blusewill/plurk-rss-example) - The Example to use Github Workflow as your rss feed
 ### 🔨 My recent Pull Requests
 
+- [Able to set the Default Terminal to Powershell 7 in Windows Terminal](https://github.com/ChrisTitusTech/winutil/pull/1991) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Setup to open the web browser using the XDG Defaults](https://github.com/ChrisTitusTech/dwm-titus/pull/21) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [修復找不到 flashplayer_sa.exe](https://github.com/SaviorDT/MoleFishCapture/pull/1) on [SaviorDT/MoleFishCapture](https://github.com/SaviorDT/MoleFishCapture)
 - [Fixes #1878](https://github.com/ChrisTitusTech/winutil/pull/1883) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Merge Update](https://github.com/blusewill/dwm-blusewill/pull/1) on [blusewill/dwm-blusewill](https://github.com/blusewill/dwm-blusewill)
-- [Add LINE in Communications Tab](https://github.com/ChrisTitusTech/winutil/pull/1765) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
