@@ -2,11 +2,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
-- [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
 ### 🌱 My latest projects
 
 - [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
@@ -16,11 +16,11 @@
 - [blusewill/plurk-rss-example](https://github.com/blusewill/plurk-rss-example) - The Example to use Github Workflow as your rss feed
 ### 🔨 My recent Pull Requests
 
+- [2024/05/30 ytvideo-whisper Update](https://github.com/blusewill/ytvideo-whisper/pull/8) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Able to set the Default Terminal to Powershell 7 in Windows Terminal](https://github.com/ChrisTitusTech/winutil/pull/2000) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Able to set the Default Terminal to Powershell 7 in Windows Terminal](https://github.com/ChrisTitusTech/winutil/pull/1991) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Setup to open the web browser using the XDG Defaults](https://github.com/ChrisTitusTech/dwm-titus/pull/21) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [修復找不到 flashplayer_sa.exe](https://github.com/SaviorDT/MoleFishCapture/pull/1) on [SaviorDT/MoleFishCapture](https://github.com/SaviorDT/MoleFishCapture)
-- [Fixes #1878](https://github.com/ChrisTitusTech/winutil/pull/1883) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
