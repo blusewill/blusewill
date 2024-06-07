@@ -6,7 +6,7 @@
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
-- [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
+- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
 ### 🌱 My latest projects
 
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
