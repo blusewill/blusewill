@@ -2,11 +2,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
-- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 ### 🌱 My latest projects
 
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
