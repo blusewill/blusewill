@@ -16,18 +16,18 @@
 - [blusewill/KMN-ChatGPT-Setup](https://github.com/blusewill/KMN-ChatGPT-Setup) - Javascript backup that can call KMN_BOT in ChatGPT
 ### 🔨 My recent Pull Requests
 
+- [Update VPN Article 2024](https://github.com/blusewill/website/pull/5) on [blusewill/website](https://github.com/blusewill/website)
 - [2024/05/30 ytvideo-whisper Update](https://github.com/blusewill/ytvideo-whisper/pull/8) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Able to set the Default Terminal to Powershell 7 in Windows Terminal](https://github.com/ChrisTitusTech/winutil/pull/2000) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Able to set the Default Terminal to Powershell 7 in Windows Terminal](https://github.com/ChrisTitusTech/winutil/pull/1991) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Setup to open the web browser using the XDG Defaults](https://github.com/ChrisTitusTech/dwm-titus/pull/21) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
-- [修復找不到 flashplayer_sa.exe](https://github.com/SaviorDT/MoleFishCapture/pull/1) on [SaviorDT/MoleFishCapture](https://github.com/SaviorDT/MoleFishCapture)
 ### ⭐ Recent Stars
 
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [max32002/tixcraft_bot](https://github.com/max32002/tixcraft_bot) - MaxBot open source code bot
 - [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
 - [OwO-Network/PyDeepLX](https://github.com/OwO-Network/PyDeepLX) - A Python package for unlimited DeepL translation
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 ### 📰 Recent Blog Posts
 
 - [Quitting Soundtrack Edit Community. (For real)](https://blusewill.us.to/posts/ninjago/)
