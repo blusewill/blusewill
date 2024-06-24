@@ -9,11 +9,11 @@
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 ### 🌱 My latest projects
 
+- [blusewill/mole-rewrite](https://github.com/blusewill/mole-rewrite) - 
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
 - [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
 - [blusewill/SchoolLinux-dotconfig](https://github.com/blusewill/SchoolLinux-dotconfig) - The dotconfig file for SchoolLinux
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
-- [blusewill/KMN-ChatGPT-Setup](https://github.com/blusewill/KMN-ChatGPT-Setup) - Javascript backup that can call KMN_BOT in ChatGPT
 ### 🔨 My recent Pull Requests
 
 - [Update VPN Article 2024](https://github.com/blusewill/website/pull/5) on [blusewill/website](https://github.com/blusewill/website)
