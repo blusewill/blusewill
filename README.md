@@ -2,11 +2,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
-- [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 ### 🌱 My latest projects
 
 - [blusewill/mole-rewrite](https://github.com/blusewill/mole-rewrite) - 
@@ -16,11 +16,11 @@
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 ### 🔨 My recent Pull Requests
 
+- [Dev](https://github.com/blusewill/SchoolLinux-v2/pull/18) on [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2)
 - [Update GPU Whitelist System](https://github.com/ChrisTitusTech/winutil/pull/2178) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Add Search Button Toggle in the Tweaks Section](https://github.com/ChrisTitusTech/winutil/pull/2162) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Update VPN Article 2024](https://github.com/blusewill/website/pull/5) on [blusewill/website](https://github.com/blusewill/website)
 - [2024/05/30 ytvideo-whisper Update](https://github.com/blusewill/ytvideo-whisper/pull/8) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
-- [Able to set the Default Terminal to Powershell 7 in Windows Terminal](https://github.com/ChrisTitusTech/winutil/pull/2000) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
