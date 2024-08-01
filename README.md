@@ -2,18 +2,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/YTChatGoogleTrans](https://github.com/blusewill/YTChatGoogleTrans) - YouTube Chat Translator that is written in python
 - [blusewill/weather.taiwan](https://github.com/blusewill/weather.taiwan) - The Kodi Addon will fetch the Taiwan&#39;s Open API
 - [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 🌱 My latest projects
 
+- [blusewill/YTChatGoogleTrans](https://github.com/blusewill/YTChatGoogleTrans) - YouTube Chat Translator that is written in python
 - [blusewill/weather.taiwan](https://github.com/blusewill/weather.taiwan) - The Kodi Addon will fetch the Taiwan&#39;s Open API
 - [blusewill/mole-rewrite](https://github.com/blusewill/mole-rewrite) - 
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
 - [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
-- [blusewill/SchoolLinux-dotconfig](https://github.com/blusewill/SchoolLinux-dotconfig) - The dotconfig file for SchoolLinux
 ### 🔨 My recent Pull Requests
 
 - [Dev](https://github.com/blusewill/SchoolLinux-v2/pull/18) on [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2)
