@@ -2,10 +2,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/YTChatGoogleTrans](https://github.com/blusewill/YTChatGoogleTrans) - YouTube Chat Translator that is written in python
 - [blusewill/weather.taiwan](https://github.com/blusewill/weather.taiwan) - The Kodi Addon will fetch the Taiwan&#39;s Open API
 - [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
-- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 ### 🌱 My latest projects
 
