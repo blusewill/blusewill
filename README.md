@@ -25,9 +25,9 @@
 
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [max32002/tixcraft_bot](https://github.com/max32002/tixcraft_bot) - MaxBot open source code bot
 - [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
 - [OwO-Network/PyDeepLX](https://github.com/OwO-Network/PyDeepLX) - A Python package for unlimited DeepL translation
+- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 ### 📰 Recent Blog Posts
 
 - [Quitting Soundtrack Edit Community. (For real)](https://blusewill.us.to/posts/ninjago/)
