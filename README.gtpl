@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/2be298e9-735d-4bcb-940f-92569bb0fae1.svg)](https://wakatime.com/@2be298e9-735d-4bcb-940f-92569bb0fae1)
-
 <p align="left"><img src="https://raw.githubusercontent.com/blusewill/blusewill/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
