@@ -1,5 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/2be298e9-735d-4bcb-940f-92569bb0fae1.svg)](https://wakatime.com/@2be298e9-735d-4bcb-940f-92569bb0fae1)
 
+<p align="left"><img src="https://raw.githubusercontent.com/blusewill/blusewill/main/github-metrics.svg" /></p>
+
 ### 👷 Check out what I'm currently working on
 
 - [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
@@ -30,11 +32,11 @@
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 ### 📰 Recent Blog Posts
 
-- [Quitting Soundtrack Edit Community. (For real)](https://blusewill.us.to/posts/ninjago/)
-- [Website Update 2024](https://blusewill.us.to/posts/970b365/)
-- [Recent Thoughts](https://blusewill.us.to/posts/recent-thoughts/)
-- [Moving My Art to Locals](https://blusewill.us.to/posts/moving-my-art-to-locals/)
-- [Living in Taiwan Is Not Fun](https://blusewill.us.to/posts/living-in-taiwan-is-not-fun/)
+- [叫機器狼來幫你介紹！新酷音輸入法](https://blusewill.us.to/zh-tw/posts/202995c/)
+- [Twitch 實況主必學！將音樂從 VOD 分開！](https://blusewill.us.to/zh-tw/posts/6e86ed2/)
+- [VPN 推薦跟 VPN 的現實面](https://blusewill.us.to/zh-tw/posts/5101730/)
+- [好用的終端機工具筆記 （持續更新中）](https://blusewill.us.to/zh-tw/posts/6adac2b/)
+- [zoxide 一個可以在終端機快速移動資料夾的工具](https://blusewill.us.to/zh-tw/posts/8ce0a21/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
