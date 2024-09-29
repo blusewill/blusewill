@@ -16,11 +16,11 @@
 - [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
 ### 🔨 My recent Pull Requests
 
+- [New Feature : Setting Default TTY Fonts to Terminus Fonts](https://github.com/ChrisTitusTech/linutil/pull/698) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 - [Dev](https://github.com/blusewill/SchoolLinux-v2/pull/18) on [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2)
 - [Update GPU Whitelist System](https://github.com/ChrisTitusTech/winutil/pull/2178) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Add Search Button Toggle in the Tweaks Section](https://github.com/ChrisTitusTech/winutil/pull/2162) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Update VPN Article 2024](https://github.com/blusewill/website/pull/5) on [blusewill/website](https://github.com/blusewill/website)
-- [2024/05/30 ytvideo-whisper Update](https://github.com/blusewill/ytvideo-whisper/pull/8) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 ### ⭐ Recent Stars
 
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
