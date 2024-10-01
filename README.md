@@ -2,11 +2,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/YTChatGoogleTrans](https://github.com/blusewill/YTChatGoogleTrans) - YouTube Chat Translator that is written in python
 - [blusewill/weather.taiwan](https://github.com/blusewill/weather.taiwan) - The Kodi Addon will fetch the Taiwan&#39;s Open API
-- [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
 ### 🌱 My latest projects
 
 - [blusewill/YTChatGoogleTrans](https://github.com/blusewill/YTChatGoogleTrans) - YouTube Chat Translator that is written in python
@@ -23,11 +23,11 @@
 - [Update VPN Article 2024](https://github.com/blusewill/website/pull/5) on [blusewill/website](https://github.com/blusewill/website)
 ### ⭐ Recent Stars
 
+- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
 - [OwO-Network/PyDeepLX](https://github.com/OwO-Network/PyDeepLX) - A Python package for unlimited DeepL translation
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 ### 📰 Recent Blog Posts
 
 - [叫機器狼來幫你介紹！新酷音輸入法](https://blusewill.us.to/zh-tw/posts/202995c/)
