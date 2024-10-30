@@ -2,10 +2,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
-- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/YTChatGoogleTrans](https://github.com/blusewill/YTChatGoogleTrans) - YouTube Chat Translator that is written in python
 ### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 ### 📰 Recent Blog Posts
 
+- [去獸展第一次當上馬內的故事](https://blusewill.us.to/zh-tw/posts/72bdecb/)
+- [華碩的輸入法好用嗎?](https://blusewill.us.to/zh-tw/posts/5c6d06b/)
 - [叫機器狼來幫你介紹！新酷音輸入法](https://blusewill.us.to/zh-tw/posts/202995c/)
 - [Twitch 實況主必學！將音樂從 VOD 分開！](https://blusewill.us.to/zh-tw/posts/6e86ed2/)
 - [VPN 推薦跟 VPN 的現實面](https://blusewill.us.to/zh-tw/posts/5101730/)
-- [好用的終端機工具筆記 （持續更新中）](https://blusewill.us.to/zh-tw/posts/6adac2b/)
-- [zoxide 一個可以在終端機快速移動資料夾的工具](https://blusewill.us.to/zh-tw/posts/8ce0a21/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
