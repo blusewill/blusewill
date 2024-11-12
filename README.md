@@ -23,11 +23,11 @@
 - [Update VPN Article 2024](https://github.com/blusewill/website/pull/5) on [blusewill/website](https://github.com/blusewill/website)
 ### ⭐ Recent Stars
 
+- [CodingWonders/updgui](https://github.com/CodingWonders/updgui) - UpdGUI - A simple PowerShell front-end for PSWindowsUpdate
 - [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 - [vicwomg/pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 ### 📰 Recent Blog Posts
 
 - [去獸展第一次當上馬內的故事](https://blusewill.us.to/zh-tw/posts/72bdecb/)
