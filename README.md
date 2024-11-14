@@ -9,11 +9,11 @@
 - [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
 ### 🌱 My latest projects
 
+- [blusewill/TwitchChatTTS](https://github.com/blusewill/TwitchChatTTS) - Using Google Translate API to Generate Audio from Twitch Chat
 - [blusewill/YTChatGoogleTrans](https://github.com/blusewill/YTChatGoogleTrans) - YouTube Chat Translator that is written in python
 - [blusewill/weather.taiwan](https://github.com/blusewill/weather.taiwan) - The Kodi Addon will fetch the Taiwan&#39;s Open API
 - [blusewill/mole-rewrite](https://github.com/blusewill/mole-rewrite) - 
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
-- [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
 ### 🔨 My recent Pull Requests
 
 - [New Feature : Setting Default TTY Fonts to Terminus Fonts](https://github.com/ChrisTitusTech/linutil/pull/698) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
