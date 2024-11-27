@@ -2,9 +2,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/TwitchChatTTS](https://github.com/blusewill/TwitchChatTTS) - Using Google Translate API to Generate Audio from Twitch Chat
-- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 - [blusewill/TwitchChatDeepLTrans](https://github.com/blusewill/TwitchChatDeepLTrans) - The Twitch Chat Translator using deepl-cli API
 ### 🌱 My latest projects
@@ -30,11 +30,11 @@
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 ### 📰 Recent Blog Posts
 
+- [在 Windows 上面設定 OpenTabletDriver](https://blusewill.us.to/zh-tw/posts/opentabletdriver-windows-setup/)
 - [去獸展第一次當上馬內的故事](https://blusewill.us.to/zh-tw/posts/72bdecb/)
 - [華碩的輸入法好用嗎?](https://blusewill.us.to/zh-tw/posts/5c6d06b/)
 - [叫機器狼來幫你介紹！新酷音輸入法](https://blusewill.us.to/zh-tw/posts/202995c/)
 - [Twitch 實況主必學！將音樂從 VOD 分開！](https://blusewill.us.to/zh-tw/posts/6e86ed2/)
-- [VPN 推薦跟 VPN 的現實面](https://blusewill.us.to/zh-tw/posts/5101730/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
