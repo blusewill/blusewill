@@ -2,8 +2,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
+- [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/TwitchChatTTS](https://github.com/blusewill/TwitchChatTTS) - Using Google Translate API to Generate Audio from Twitch Chat
 - [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
