@@ -23,11 +23,11 @@
 - [Update GPU Whitelist System](https://github.com/ChrisTitusTech/winutil/pull/2178) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [Ryubing/Ryujinx](https://github.com/Ryubing/Ryujinx) - Nintendo Switch emulator written in C#, originally created by gdkchan.
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [callstack/ai-summarization](https://github.com/callstack/ai-summarization) - AI summarization tool
 - [fe1ixxu/ALMA](https://github.com/fe1ixxu/ALMA) - State-of-the-art LLM-based translation models.
-- [CodingWonders/updgui](https://github.com/CodingWonders/updgui) - UpdGUI - A simple PowerShell front-end for PSWindowsUpdate
 ### 📰 Recent Blog Posts
 
 - [叫機器狼來幫你介紹！超好用！Auto-Editor 快速影片剪輯工具完整指南汪！](https://blusewill.us.to/zh-tw/posts/b53d236/)
