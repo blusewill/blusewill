@@ -2,18 +2,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/realtime-translate-onscreen](https://github.com/blusewill/realtime-translate-onscreen) - Translate the screen information realtime
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/TwitchChatTTS](https://github.com/blusewill/TwitchChatTTS) - Using Google Translate API to Generate Audio from Twitch Chat
-- [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2) - The Linux System based on School&#39;s Usage
 ### 🌱 My latest projects
 
+- [blusewill/realtime-translate-onscreen](https://github.com/blusewill/realtime-translate-onscreen) - Translate the screen information realtime
 - [blusewill/TwitchChatTTS](https://github.com/blusewill/TwitchChatTTS) - Using Google Translate API to Generate Audio from Twitch Chat
 - [blusewill/YTChatGoogleTrans](https://github.com/blusewill/YTChatGoogleTrans) - YouTube Chat Translator that is written in python
 - [blusewill/weather.taiwan](https://github.com/blusewill/weather.taiwan) - The Kodi Addon will fetch the Taiwan&#39;s Open API
 - [blusewill/mole-rewrite](https://github.com/blusewill/mole-rewrite) - 
-- [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
 ### 🔨 My recent Pull Requests
 
 - [Faster whisper refactor](https://github.com/blusewill/ytvideo-whisper/pull/10) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
