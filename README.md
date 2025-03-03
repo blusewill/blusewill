@@ -23,11 +23,11 @@
 - [Update GPU Whitelist System](https://github.com/ChrisTitusTech/winutil/pull/2178) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [dero/HIDeous](https://github.com/dero/HIDeous) - Map each keyboard separately in Windows
+- [Fajar-RahmadJaya/KeyTik](https://github.com/Fajar-RahmadJaya/KeyTik) - GUI-Based Keyboard Remapper with Profiles, Auto Clicker, Screen Clicker, Multiple Files Opener, AutoHotkey Script Manager and More.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [SeoulSKY/ytnoti](https://github.com/SeoulSKY/ytnoti) - Easy-to-use Python library for receiving YouTube push notification for video upload and edit in real-time
 - [amd64fox/Rollback-Spotify](https://github.com/amd64fox/Rollback-Spotify) - Downgrade Spotify and block update for Windows
-- [Ryubing/Ryujinx](https://github.com/Ryubing/Ryujinx) - Nintendo Switch emulator written in C#, originally created by gdkchan.
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 ### 📰 Recent Blog Posts
 
 - [叫機器狼來幫你介紹！超好用！Auto-Editor 快速影片剪輯工具完整指南汪！](https://blusewill.us.to/zh-tw/posts/b53d236/)
