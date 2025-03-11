@@ -30,11 +30,11 @@
 - [amd64fox/Rollback-Spotify](https://github.com/amd64fox/Rollback-Spotify) - Downgrade Spotify and block update for Windows
 ### 📰 Recent Blog Posts
 
+- [最平價 StreamDeck！拿數字鍵盤來當快捷鍵！](https://blusewill.us.to/zh-tw/posts/4082c82/)
 - [叫機器狼來幫你介紹！超好用！Auto-Editor 快速影片剪輯工具完整指南汪！](https://blusewill.us.to/zh-tw/posts/b53d236/)
 - [在 Windows 上面設定 OpenTabletDriver](https://blusewill.us.to/zh-tw/posts/opentabletdriver-windows-setup/)
 - [去獸展第一次當上馬內的故事](https://blusewill.us.to/zh-tw/posts/72bdecb/)
 - [華碩的輸入法好用嗎?](https://blusewill.us.to/zh-tw/posts/5c6d06b/)
-- [叫機器狼來幫你介紹！新酷音輸入法](https://blusewill.us.to/zh-tw/posts/202995c/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
