@@ -23,11 +23,11 @@
 - [Dev](https://github.com/blusewill/SchoolLinux-v2/pull/18) on [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2)
 ### ⭐ Recent Stars
 
+- [Natoune/SpotifyMobileLyricsAPI](https://github.com/Natoune/SpotifyMobileLyricsAPI) - This API overrides the Spotify API endpoint used in the Spotify mobile app to fetch lyrics for the currently playing song.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [dero/HIDeous](https://github.com/dero/HIDeous) - Map each keyboard separately in Windows
 - [Fajar-RahmadJaya/KeyTik](https://github.com/Fajar-RahmadJaya/KeyTik) - GUI-Based Keyboard Remapper with Profiles, Auto Clicker, Screen Clicker, Multiple Files Opener, AutoHotkey Script Manager and More.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
-- [SeoulSKY/ytnoti](https://github.com/SeoulSKY/ytnoti) - Easy-to-use Python library for receiving YouTube push notification for video upload and edit in real-time
-- [amd64fox/Rollback-Spotify](https://github.com/amd64fox/Rollback-Spotify) - Downgrade Spotify and block update for Windows
 ### 📰 Recent Blog Posts
 
 - [最平價 StreamDeck！拿數字鍵盤來當快捷鍵！](https://blusewill.us.to/zh-tw/posts/4082c82/)
