@@ -3,10 +3,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
+- [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 - [blusewill/realtime-translate-onscreen](https://github.com/blusewill/realtime-translate-onscreen) - Translate the screen information realtime
 - [blusewill/stream-whisper](https://github.com/blusewill/stream-whisper) - The local transcripton software that can transcribe realtime.
-- [blusewill/TwitchChatTTS](https://github.com/blusewill/TwitchChatTTS) - Using Google Translate API to Generate Audio from Twitch Chat
 ### 🌱 My latest projects
 
 - [blusewill/realtime-translate-onscreen](https://github.com/blusewill/realtime-translate-onscreen) - Translate the screen information realtime
