@@ -23,11 +23,11 @@
 - [Dev](https://github.com/blusewill/SchoolLinux-v2/pull/18) on [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2)
 ### ⭐ Recent Stars
 
+- [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
 - [amadejkastelic/discord-video-embed-bot](https://github.com/amadejkastelic/discord-video-embed-bot) - A discord bot that automatically embeds videos from various sources that do not support embeding.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [Natoune/SpotifyMobileLyricsAPI](https://github.com/Natoune/SpotifyMobileLyricsAPI) - This API overrides the Spotify API endpoint used in the Spotify mobile app to fetch lyrics for the currently playing song.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [dero/HIDeous](https://github.com/dero/HIDeous) - Map each keyboard separately in Windows
 ### 📰 Recent Blog Posts
 
 - [Streamer.bot 筆記 (持續更新中)](https://blusewill.us.to/zh-tw/posts/ea7ec9c/)
