@@ -16,11 +16,11 @@
 - [blusewill/mole-rewrite](https://github.com/blusewill/mole-rewrite) - 
 ### 🔨 My recent Pull Requests
 
+- [Streamer.bot 1.0.0 Article Update](https://github.com/blusewill/website/pull/9) on [blusewill/website](https://github.com/blusewill/website)
+- [Website Image update. New Way to Download Streamer.bot on the website.](https://github.com/blusewill/website/pull/8) on [blusewill/website](https://github.com/blusewill/website)
 - [Hi. I want to apply Havord](https://github.com/codex-connect-hacknet/pre-codex-inv/pull/77) on [codex-connect-hacknet/pre-codex-inv](https://github.com/codex-connect-hacknet/pre-codex-inv)
 - [Faster whisper refactor](https://github.com/blusewill/ytvideo-whisper/pull/10) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
 - [Create LICENSE](https://github.com/blusewill/ytvideo-whisper/pull/9) on [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper)
-- [New Feature : Setting Default TTY Fonts to Terminus Fonts](https://github.com/ChrisTitusTech/linutil/pull/698) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [Dev](https://github.com/blusewill/SchoolLinux-v2/pull/18) on [blusewill/SchoolLinux-v2](https://github.com/blusewill/SchoolLinux-v2)
 ### ⭐ Recent Stars
 
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
