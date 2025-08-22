@@ -2,9 +2,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/Streamerbot-Translate](https://github.com/blusewill/Streamerbot-Translate) - Using Streamerbot to deal with realtime translation
 - [blusewill/Streamerbot-TTS](https://github.com/blusewill/Streamerbot-TTS) - Using websocket to transform Chat&#39;s message into TTS
-- [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
 - [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 ### 🌱 My latest projects
