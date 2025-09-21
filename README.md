@@ -30,11 +30,11 @@
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 ### 📰 Recent Blog Posts
 
+- [不要用語音訊息講重要的事情](https://blusewill.top/zh-tw/posts/8d3ffc5/)
 - [Streamer.bot 筆記 (持續更新中)](https://blusewill.top/zh-tw/posts/ea7ec9c/)
 - [Linux 入門教學](https://blusewill.top/zh-tw/posts/eb38ca4/)
 - [Windows 11 消除了 BypassNRO！？](https://blusewill.top/zh-tw/posts/6d193ae/)
 - [最平價 StreamDeck！拿數字鍵盤來當快捷鍵！](https://blusewill.top/zh-tw/posts/4082c82/)
-- [叫機器狼來幫你介紹！超好用！Auto-Editor 快速影片剪輯工具完整指南汪！](https://blusewill.top/zh-tw/posts/b53d236/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
