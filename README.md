@@ -30,11 +30,11 @@
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 ### 📰 Recent Blog Posts
 
+- [為什麼 Lifewonders 的遊戲都比玩家翻譯的還要慢？](https://blusewill.top/zh-tw/posts/04f9413/)
 - [不要打開 &#34;BitLocker&#34;](https://blusewill.top/zh-tw/posts/168939e/)
 - [9/26 騎車發現](https://blusewill.top/zh-tw/posts/f44e6f9/)
 - [五萬塊錢的錯誤](https://blusewill.top/zh-tw/posts/80c630a/)
 - [I am not your &#34;Bro&#34;](https://blusewill.top/zh-tw/posts/cb0f552/)
-- [第一次自己去虎爺廟](https://blusewill.top/zh-tw/posts/cabb93e/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
