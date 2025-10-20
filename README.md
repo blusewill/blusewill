@@ -3,17 +3,17 @@
 ### 👷 Check out what I'm currently working on
 
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
+- [blusewill/oobe-bypass](https://github.com/blusewill/oobe-bypass) - Creates Offline Account on Windows with autounattend.xml file in OOBE
 - [blusewill/Streamerbot-Translate](https://github.com/blusewill/Streamerbot-Translate) - Using Streamerbot to deal with realtime translation
 - [blusewill/Streamerbot-TTS](https://github.com/blusewill/Streamerbot-TTS) - Using websocket to transform Chat&#39;s message into TTS
 - [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
-- [blusewill/ytvideo-whisper](https://github.com/blusewill/ytvideo-whisper) - a python script that can auto generate subtitle in YouTube Videos
 ### 🌱 My latest projects
 
+- [blusewill/oobe-bypass](https://github.com/blusewill/oobe-bypass) - Creates Offline Account on Windows with autounattend.xml file in OOBE
 - [blusewill/Streamerbot-Translate](https://github.com/blusewill/Streamerbot-Translate) - Using Streamerbot to deal with realtime translation
 - [blusewill/Streamerbot-TTS](https://github.com/blusewill/Streamerbot-TTS) - Using websocket to transform Chat&#39;s message into TTS
 - [blusewill/realtime-translate-onscreen](https://github.com/blusewill/realtime-translate-onscreen) - Translate the screen information realtime
 - [blusewill/TwitchChatTTS](https://github.com/blusewill/TwitchChatTTS) - Using Google Translate API to Generate Audio from Twitch Chat
-- [blusewill/YTChatGoogleTrans](https://github.com/blusewill/YTChatGoogleTrans) - YouTube Chat Translator that is written in python
 ### 🔨 My recent Pull Requests
 
 - [Fixes Image on Streamer.bot Article](https://github.com/blusewill/website/pull/11) on [blusewill/website](https://github.com/blusewill/website)
