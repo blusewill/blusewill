@@ -2,11 +2,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/oobe-bypass](https://github.com/blusewill/oobe-bypass) - Creates Offline Account on Windows with autounattend.xml file in OOBE
 - [blusewill/Streamerbot-TTS](https://github.com/blusewill/Streamerbot-TTS) - Using websocket to transform Chat&#39;s message into TTS
 - [blusewill/Streamerbot-Translate](https://github.com/blusewill/Streamerbot-Translate) - Using Streamerbot to deal with realtime translation
-- [blusewill/powershell-script](https://github.com/blusewill/powershell-script) - The Powershell Script that I might use often?
 ### 🌱 My latest projects
 
 - [blusewill/oobe-bypass](https://github.com/blusewill/oobe-bypass) - Creates Offline Account on Windows with autounattend.xml file in OOBE
