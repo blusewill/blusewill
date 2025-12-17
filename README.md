@@ -2,18 +2,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/rust-learning-curve](https://github.com/blusewill/rust-learning-curve) - The blusewill learing curve on rust coding language
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/oobe-bypass](https://github.com/blusewill/oobe-bypass) - Creates Offline Account on Windows with autounattend.xml file in OOBE
-- [blusewill/Streamerbot-TTS](https://github.com/blusewill/Streamerbot-TTS) - Using websocket to transform Chat&#39;s message into TTS
 - [blusewill/Streamerbot-Translate](https://github.com/blusewill/Streamerbot-Translate) - Using Streamerbot to deal with realtime translation
 ### 🌱 My latest projects
 
+- [blusewill/rust-learning-curve](https://github.com/blusewill/rust-learning-curve) - The blusewill learing curve on rust coding language
 - [blusewill/oobe-bypass](https://github.com/blusewill/oobe-bypass) - Creates Offline Account on Windows with autounattend.xml file in OOBE
 - [blusewill/Streamerbot-Translate](https://github.com/blusewill/Streamerbot-Translate) - Using Streamerbot to deal with realtime translation
 - [blusewill/Streamerbot-TTS](https://github.com/blusewill/Streamerbot-TTS) - Using websocket to transform Chat&#39;s message into TTS
 - [blusewill/realtime-translate-onscreen](https://github.com/blusewill/realtime-translate-onscreen) - Translate the screen information realtime
-- [blusewill/TwitchChatTTS](https://github.com/blusewill/TwitchChatTTS) - Using Google Translate API to Generate Audio from Twitch Chat
 ### 🔨 My recent Pull Requests
 
 - [Fixes Image on Streamer.bot Article](https://github.com/blusewill/website/pull/11) on [blusewill/website](https://github.com/blusewill/website)
