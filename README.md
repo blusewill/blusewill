@@ -23,11 +23,11 @@
 - [Hi. I want to apply Havord](https://github.com/codex-connect-hacknet/pre-codex-inv/pull/77) on [codex-connect-hacknet/pre-codex-inv](https://github.com/codex-connect-hacknet/pre-codex-inv)
 ### ⭐ Recent Stars
 
+- [CodingWonders/MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 - [kormax/felica-tool](https://github.com/kormax/felica-tool) - Application for analyzing characteristics of FeliCa cards
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [bouob/tickets_hunter](https://github.com/bouob/tickets_hunter) - Tickets Hunter (獵票機器人) - automated ticket purchasing. 科技決定你搶票的速度！ Previously named tixcraft_bot
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
-- [amadejkastelic/discord-video-embed-bot](https://github.com/amadejkastelic/discord-video-embed-bot) - A discord bot that automatically embeds videos from various sources that do not support embeding.
 ### 📰 Recent Blog Posts
 
 - [為什麼 Lifewonders 的遊戲都比玩家翻譯的還要慢？](https://blusewill.top/zh-tw/posts/04f9413/)
