@@ -2,9 +2,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/dwm-blusewill](https://github.com/blusewill/dwm-blusewill) - blusewill&#39;s dwm configuration
 - [blusewill/rust-learning-curve](https://github.com/blusewill/rust-learning-curve) - The blusewill learing curve on rust coding language
-- [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/oobe-bypass](https://github.com/blusewill/oobe-bypass) - Creates Offline Account on Windows with autounattend.xml file in OOBE
 ### 🌱 My latest projects
