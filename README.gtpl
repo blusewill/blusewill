@@ -17,7 +17,7 @@
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-{{ range rss "https://blusewill.us.to/zh-tw/index.xml" 5 }}
+{{ range rss "https://blusewill.top/zh-tw/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 ### 📫 How to reach me:
@@ -25,7 +25,7 @@
   - Twitch    : <https://twitch.tv/blusewill>
   - Twitter   : <https://twitter.com/bluesewill>
   - Mastodon  : <https://mastodon.social/@bluesewill>
-  - Website   : <https://blusewill.us.to/>
+  - Website   : <https://blusewill.top/>
 
 <p align="center"><a href="https://github.com/Platane/snk">
   <img align="center" src="https://raw.githubusercontent.com/blusewill/blusewill/output/github-contribution-grid-snake-dark.svg" />
