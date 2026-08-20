@@ -25,7 +25,7 @@
 
 - [AlexanderWagnerDev/stream-server-bitrate](https://github.com/AlexanderWagnerDev/stream-server-bitrate) - 📡 Lightweight bitrate &amp; RTT overlay for OBS with color-coded signal quality | Farbkodiertes Bitrate-Overlay für OBS
 - [hotsixman/hiroba.js](https://github.com/hotsixman/hiroba.js) - A donder hiroba scraping library for javascript
-- [CodingWonders/MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
+- [CodingWonders/MicroWin](https://github.com/CodingWonders/MicroWin) - It&#39;s time to &#34;reset&#34; Windows.
 - [kormax/felica-tool](https://github.com/kormax/felica-tool) - Application for analyzing characteristics of FeliCa cards
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 ### 📰 Recent Blog Posts
