@@ -2,18 +2,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/seer-pc-updater](https://github.com/blusewill/seer-pc-updater) - 賽爾號台服更新器
 - [blusewill/joy-system](https://github.com/blusewill/joy-system) - The Operating System Only for Joy-English School
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
 - [blusewill/dwm-blusewill](https://github.com/blusewill/dwm-blusewill) - blusewill&#39;s dwm configuration
-- [blusewill/rust-learning-curve](https://github.com/blusewill/rust-learning-curve) - The blusewill learing curve on rust coding language
 ### 🌱 My latest projects
 
+- [blusewill/seer-pc-updater](https://github.com/blusewill/seer-pc-updater) - 賽爾號台服更新器
 - [blusewill/joy-system](https://github.com/blusewill/joy-system) - The Operating System Only for Joy-English School
 - [blusewill/dwm-blusewill](https://github.com/blusewill/dwm-blusewill) - blusewill&#39;s dwm configuration
 - [blusewill/rust-learning-curve](https://github.com/blusewill/rust-learning-curve) - The blusewill learing curve on rust coding language
 - [blusewill/oobe-bypass](https://github.com/blusewill/oobe-bypass) - Creates Offline Account on Windows with autounattend.xml file in OOBE
-- [blusewill/Streamerbot-Translate](https://github.com/blusewill/Streamerbot-Translate) - Using Streamerbot to deal with realtime translation
 ### 🔨 My recent Pull Requests
 
 - [Fixes Image on Streamer.bot Article](https://github.com/blusewill/website/pull/11) on [blusewill/website](https://github.com/blusewill/website)
