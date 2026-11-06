@@ -23,18 +23,18 @@
 - [Website Image update. New Way to Download Streamer.bot on the website.](https://github.com/blusewill/website/pull/8) on [blusewill/website](https://github.com/blusewill/website)
 ### ⭐ Recent Stars
 
+- [irlserver/obs-irl-source](https://github.com/irlserver/obs-irl-source) - OBS plugin for receiving live IRL streams over SRT, RTMP, RIST or any FFmpeg-supported protocol.
+- [e04/go-irl](https://github.com/e04/go-irl) - A modern SRTLA Server for Windows, mac and Linux
 - [slorelee/wimbuilder2](https://github.com/slorelee/wimbuilder2) - wimbuilder with new UI &amp; new syntax (hta&#43;bat&#43;vbs&#43;js)
 - [igagansingh/astro-wanderer](https://github.com/igagansingh/astro-wanderer) - A personal site theme for Astro — portfolio, blog, and travel photo galleries in one quiet, fast template. Built with opencode.
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box. 
-- [OakVideoEditorCommunity/oak](https://github.com/OakVideoEditorCommunity/oak) - Community edition of an free and open source video editor named olive.
-- [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools and mods for Android nerds
 ### 📰 Recent Blog Posts
 
+- [關於之後獸無限以及其他獸展直播公告](https://blusewill.top/zh-tw/posts/e27742f/)
 - [新照片格式測試](https://blusewill.top/zh-tw/posts/2caeffa/)
 - [終於回來寫部落格了！網站更新！](https://blusewill.top/zh-tw/posts/8b23859/)
 - [為什麼 Lifewonders 的遊戲都比玩家翻譯的還要慢？](https://blusewill.top/zh-tw/posts/04f9413/)
 - [不要打開 &#34;BitLocker&#34;](https://blusewill.top/zh-tw/posts/168939e/)
-- [9/26 騎車發現](https://blusewill.top/zh-tw/posts/f44e6f9/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
