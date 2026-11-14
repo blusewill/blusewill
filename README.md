@@ -2,18 +2,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [blusewill/MoQ-Pro-Auto-Switch](https://github.com/blusewill/MoQ-Pro-Auto-Switch) - MoQ-Pro OBS Auto Switch Scene Server
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
 - [blusewill/seer-pc-updater](https://github.com/blusewill/seer-pc-updater) - 賽爾號台服更新器
 - [blusewill/joy-system](https://github.com/blusewill/joy-system) - The Operating System Only for Joy-English School
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
-- [blusewill/dwm-blusewill](https://github.com/blusewill/dwm-blusewill) - blusewill&#39;s dwm configuration
 ### 🌱 My latest projects
 
+- [blusewill/MoQ-Pro-Auto-Switch](https://github.com/blusewill/MoQ-Pro-Auto-Switch) - MoQ-Pro OBS Auto Switch Scene Server
 - [blusewill/seer-pc-updater](https://github.com/blusewill/seer-pc-updater) - 賽爾號台服更新器
 - [blusewill/joy-system](https://github.com/blusewill/joy-system) - The Operating System Only for Joy-English School
 - [blusewill/dwm-blusewill](https://github.com/blusewill/dwm-blusewill) - blusewill&#39;s dwm configuration
 - [blusewill/rust-learning-curve](https://github.com/blusewill/rust-learning-curve) - The blusewill learing curve on rust coding language
-- [blusewill/oobe-bypass](https://github.com/blusewill/oobe-bypass) - Creates Offline Account on Windows with autounattend.xml file in OOBE
 ### 🔨 My recent Pull Requests
 
 - [Config Update Website Update Theme Upgrade](https://github.com/blusewill/website/pull/12) on [blusewill/website](https://github.com/blusewill/website)
