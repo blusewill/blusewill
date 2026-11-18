@@ -2,8 +2,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [blusewill/MoQ-Pro-Auto-Switch](https://github.com/blusewill/MoQ-Pro-Auto-Switch) - MoQ-Pro OBS Auto Switch Scene Server
 - [blusewill/website](https://github.com/blusewill/website) - blusewill&#39;s Official NEW website
+- [blusewill/MoQ-Pro-Auto-Switch](https://github.com/blusewill/MoQ-Pro-Auto-Switch) - MoQ-Pro OBS Auto Switch Scene Server
 - [blusewill/seer-pc-updater](https://github.com/blusewill/seer-pc-updater) - 賽爾號台服更新器
 - [blusewill/joy-system](https://github.com/blusewill/joy-system) - The Operating System Only for Joy-English School
 - [blusewill/bash-script](https://github.com/blusewill/bash-script) - The bash script that blusewill uses often in the Linux Enviroment
@@ -30,11 +30,11 @@
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box. 
 ### 📰 Recent Blog Posts
 
+- [我如何直播戶外台？](https://blusewill.top/zh-tw/posts/785489e/)
 - [關於之後獸無限以及其他獸展直播公告](https://blusewill.top/zh-tw/posts/e27742f/)
 - [新照片格式測試](https://blusewill.top/zh-tw/posts/2caeffa/)
 - [終於回來寫部落格了！網站更新！](https://blusewill.top/zh-tw/posts/8b23859/)
 - [為什麼 Lifewonders 的遊戲都比玩家翻譯的還要慢？](https://blusewill.top/zh-tw/posts/04f9413/)
-- [不要打開 &#34;BitLocker&#34;](https://blusewill.top/zh-tw/posts/168939e/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
