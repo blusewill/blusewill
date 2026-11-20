@@ -23,11 +23,11 @@
 - [Website Image update. New Way to Download Streamer.bot on the website.](https://github.com/blusewill/website/pull/8) on [blusewill/website](https://github.com/blusewill/website)
 ### ⭐ Recent Stars
 
+- [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC: Real-time latency at massive scale
 - [irlserver/obs-irl-source](https://github.com/irlserver/obs-irl-source) - OBS plugin for receiving live IRL streams over SRT, RTMP, RIST or any FFmpeg-supported protocol.
 - [e04/go-irl](https://github.com/e04/go-irl) - A modern SRTLA Server for Windows, mac and Linux
 - [slorelee/wimbuilder2](https://github.com/slorelee/wimbuilder2) - wimbuilder with new UI &amp; new syntax (hta&#43;bat&#43;vbs&#43;js)
 - [igagansingh/astro-wanderer](https://github.com/igagansingh/astro-wanderer) - A personal site theme for Astro — portfolio, blog, and travel photo galleries in one quiet, fast template. Built with opencode.
-- [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box. 
 ### 📰 Recent Blog Posts
 
 - [我如何直播戶外台？](https://blusewill.top/zh-tw/posts/785489e/)
