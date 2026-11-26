@@ -30,11 +30,11 @@
 - [igagansingh/astro-wanderer](https://github.com/igagansingh/astro-wanderer) - A personal site theme for Astro — portfolio, blog, and travel photo galleries in one quiet, fast template. Built with opencode.
 ### 📰 Recent Blog Posts
 
+- [VPS 應該要買哪家？](https://blusewill.top/zh-tw/posts/cede28f/)
 - [如何保護一個在公網上面的伺服器！](https://blusewill.top/zh-tw/posts/4112316/)
 - [Firefox 的吉祥物 Kit](https://blusewill.top/zh-tw/posts/14042f5/)
 - [我如何直播戶外台？](https://blusewill.top/zh-tw/posts/785489e/)
 - [關於之後獸無限以及其他獸展直播公告](https://blusewill.top/zh-tw/posts/e27742f/)
-- [新照片格式測試](https://blusewill.top/zh-tw/posts/2caeffa/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/@blusewill>
   - Twitch    : <https://twitch.tv/blusewill>
